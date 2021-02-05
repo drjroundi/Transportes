@@ -13,11 +13,11 @@
     "name": "typicode"
   },
   "access": {
-    "agentCode" : 12345
+    "agentCode" : 12345,
     "pwd" : "111111"
   },
   "login": {
-    "agentCode" : 12345
+    "agentCode" : 12345,
     "pwd" : "111111",
     "Result" : "true",
     "Token" : "257a251cf41a104d75497a09774891634"
