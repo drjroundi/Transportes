@@ -32,7 +32,8 @@
       "NumTrips": 1,
       "Price": 5,
       "TitleId": 1000
-    }, {
+    },
+    {
       "operatorId": 1,
       "date": "06/07/2020",
       "AllowMultiPurchase": true,
@@ -41,7 +42,8 @@
       "NumTrips": 5,
       "Price": 8,
       "TitleId": 1000
-    }, {
+    },
+    {
       "operatorId": 1,
       "date": "06/07/2020",
       "AllowMultiPurchase": true,
