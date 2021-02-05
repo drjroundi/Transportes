@@ -14,18 +14,18 @@
   },
   "access": {
     "agentCode" : 12345
-    "pwd": "111111"
+    "pwd" : "111111"
   },
   "login": {
     "agentCode" : 12345
-    "pwd": "111111",
-    "Result":"true",
-    "Token":"257a251cf41a104d75497a09774891634"
+    "pwd" : "111111",
+    "Result" : "true",
+    "Token" : "257a251cf41a104d75497a09774891634"
   },
   "getAvailableQR": [
     {
       "operatorId": 1,
-      "date": 06/07/2020,
+      "date": "06/07/2020",
       "AllowMultiPurchase": true,
       "Description": "Multiviaje QR",
       "ExpirationDate": "2020-09-06T00:00:00",
@@ -34,7 +34,7 @@
       "TitleId": 1000
     }, {
       "operatorId": 1,
-      "date": 06/07/2020,
+      "date": "06/07/2020",
       "AllowMultiPurchase": true,
       "Description": "Multiviaje QR",
       "ExpirationDate": "2020-09-06T00:00:00",
@@ -43,7 +43,7 @@
       "TitleId": 1000
     }, {
       "operatorId": 1,
-      "date": 06/07/2020,
+      "date": "06/07/2020",
       "AllowMultiPurchase": true,
       "Description": "Multiviaje QR",
       "ExpirationDate": "2020-09-06T00:00:00",
