@@ -19,7 +19,7 @@
   "login": {
     "agentCode" : 12345,
     "pwd" : "111111",
-    "Result" : "true",
+    "Result" : true,
     "Token" : "257a251cf41a104d75497a09774891634"
   },
   "getAvailableQR": [
